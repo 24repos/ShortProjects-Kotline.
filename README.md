@@ -1,6 +1,6 @@
-# ShortProjects-Kotlin
+# Short Projects-Kotlin
 
-Uploading simple and short projects, with plans to move on to more medium-level projects.
+Simple and short projects, with plans to move on to more medium-level projects.
 
 ## Android Kotlin Projects
 This repository contains Android applications built using Kotlin.
